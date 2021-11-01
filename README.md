@@ -30,4 +30,4 @@ This BoT will scrap Your TELEGRAM API_ID AND API_HASH DIRECTLY FROM TELEGRAM
 
 ## ♦️Supporter [Don't Forget to visit քֆʏƈɦօ ɮօȶֆ]♦️
 
-## ~ [քֆʏƈɦօ ɮօȶֆ](https://t.me/Psycho_Bots) 💖 
+## ~ [քֆʏƈɦօ ɮօȶֆ](https://t.me/Psycho_Bots) 💖
