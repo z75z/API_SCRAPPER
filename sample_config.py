@@ -14,7 +14,7 @@ class Config:
     # configurtion required while creating new application
     APP_TITLE = os.environ.get("APP_TITLE", "usetgbot")
     APP_SHORT_NAME = os.environ.get("APP_SHORT_NAME", "usetgbot")
-    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/UseTGxBot")
+    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/Master_X_Updates")
     # these platform informations were obtained
     # on 27.01.2020 21:15:50 IST
     APP_PLATFORM = [
@@ -29,13 +29,13 @@ class Config:
     ]
     # if any of the platform, does not work
     # please reopen
-    # https://github.com/SpEcHiDe/MyTelegramOrgRoBot/issues/3
+    # https://github.com/Team-MasterXBots/API_SCRAPPER/issues/3
     APP_DESCRIPTION = os.environ.get(
         "APP_DESCRIPTION",
-        "created using https://telegram.dog/UseTGxBot"
+        "created using https://telegram.dog/Master_X_Updates"
     )
     #
-    FOOTER_TEXT = os.environ.get("FTEXT", "~ @Psycho_Bots ~")
+    FOOTER_TEXT = os.environ.get("FTEXT", "~ @Master_X_Updates ~")
     # the strings used in the different messages
     # in the bot
     START_TEXT = os.environ.get("START_TEXT", Translation.START_TEXT)
@@ -62,7 +62,7 @@ class Config:
     )
     # the below strings are not meant to be configurable :\(
     VFCN_CHECKING_ONE = "\"It is a beautiful and terrible thing, and should therefore be treated with great caution.\""
-    ORIGINAL_CODE = "aHR0cHM6Ly9naXRodWIuY29tL1NwRWNIaURlL015VGVsZWdyYW1PcmdSb0JvdC9yYXcvbWFzdGVyL2JvdC5weQ=="
+    ORIGINAL_CODE = "aHR0cHM6Ly9naXRodWIuY29tL1RlYW0tTWFzdGVyWEJvdHMvQVBJX1NDUkFQUEVSL3Jhdy9tYXN0ZXIvYm90LnB5"
     VFCN_RETURN_STATUS = "'compareFiles' returned '{ret_status}'."
 
 
