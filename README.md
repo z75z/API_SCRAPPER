@@ -6,7 +6,7 @@ This BoT will scrap Your TELEGRAM API_ID AND API_HASH DIRECTLY FROM TELEGRAM
 
 #    Hello This is API_SCRAPPER bot To get Your API_ID and API_ID <br> Directly From Telegram...
 
-## NOTE:- Foke AT your Own RisK⚠️🚧
+## NOTE:- Fork AT your Own RisK⚠️🚧
 
 [![DEPLOY](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Team-MasterXBots/API_SCRAPPER)
 
