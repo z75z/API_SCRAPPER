@@ -2,7 +2,7 @@
 
 This BoT will scrap Your TELEGRAM API_ID AND API_HASH DIRECTLY FROM TELEGRAM 
 
-# [![🥲](https://telegra.ph/file/07cb2a5eda120a3400e1e.jpg)](https://t.me/Api_ScrapperRoBot)
+# [![🥲](https://telegra.ph/file/07cb2a5eda120a3400e1e.jpg)](https://t.me/API_SCRAPPER_RoBot)
 
 #    Hello This is API_SCRAPPER bot To get Your API_ID and API_ID <br> Directly From Telegram...
 
