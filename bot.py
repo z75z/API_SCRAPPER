@@ -21,7 +21,7 @@ import logging
 import os
 import sample_config
 from base64 import b64decode
-
+from sample_config import Config
 from telegram import ParseMode
 from telegram.ext import (
     Updater,
