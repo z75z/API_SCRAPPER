@@ -4,9 +4,9 @@ from translation import Translation
 
 class Config:
     # get a token from @BotFather
-    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", None)
+    TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "7155835267:AAGlebDTrDbiDRMNAyfYs3aYUWE2qvWevOo")
     # required for running on Heroku
-    URL = os.environ.get("URL", "")
+    URL = os.environ.get("URL", "https://iqapi.herokuapp.com/")
     PORT = int(os.environ.get("PORT", 5000))
     # Python3 ReQuests CHUNK SIZE
     CHUNK_SIZE = 10280
